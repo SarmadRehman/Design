@@ -3,6 +3,7 @@ function Details() {
     <section>
       <h2>Our bestselling chairs</h2>
       <div className="grid-3-cols">
+        {/* figure for the card */}
         <figure className="chair">
           <img src="chair-1.jpg" alt="Chair" />
           <div className="chair-box">
